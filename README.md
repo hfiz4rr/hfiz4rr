@@ -86,6 +86,6 @@ I'm a developer who enjoys turning ideas into working products, from the interfa
 
 <p>
   <a href="mailto:achmadhafidzar28@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/achmad-hafidzar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/achmad-hafidzar](https://www.linkedin.com/in/achmad-hafidzar-61a021346?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/hffzrr"><img src="https://img.shields.io/badge/Instagram-1f2328?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
